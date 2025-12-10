@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "bip32": "^5.0.0",
+    "bip39": "^3.1.0",
+    "bitcoinjs-lib": "^7.0.0",
+    "coinselect": "^3.1.13",
+    "dotenv": "^17.2.3",
+    "ecpair": "^3.0.0",
+    "node-fetch": "^2.7.0",
+    "tiny-secp256k1": "^2.2.4"
+  }
+}
