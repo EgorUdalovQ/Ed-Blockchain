@@ -114,7 +114,7 @@ async function checkWallet(mnemonic, accountIndex = 1, gapLimit = 20) {
 }
 
 (async () => {
-  const mnemonic = 'chalk cover vocal advice office close rifle agree destroy pole invite tumble';
+  const mnemonic = 'chalk cover vocal advice office close ring agree destroy pole invite tumble';
   const accountIndex = 1; // второй счёт (m/44'/1'/1'/...)
   await checkWallet(mnemonic, accountIndex);
 })();

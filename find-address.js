@@ -47,6 +47,6 @@ async function findAddress(mnemonic, targetAddress, maxIndex = 100) {
 }
 
 (async () => {
-  const mnemonic = 'chalk cover vocal advice office close rifle agree destroy pole invite tumble';
+  const mnemonic = 'chalk cover vocal advice office close ring agree destroy pole invite tumble';
   await findAddress(mnemonic, 'tb1qq60unf5z3ssrzzk9gr6n0vpmlpnqdpd3u6xhrg', 100);
 })();
