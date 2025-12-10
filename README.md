@@ -4,27 +4,9 @@
 
 ---
 
-## 📋 СОЗДАНИЕ БИТКОИН-АДРЕСА ИЗ SEED-ФРАЗЫ (HD-кошелёк BIP44)
-
-### 🎯 ПРИМЕР:
-
-**Задача:** Найти адрес для отправки монеты из кошелька Bitpay
-
-**Дано:** seed-фраза  
-```
-chalk cover vocal advice office close ring agree destroy pole invite tumble
-```
-
-**Итог:**  
-```
-tb1q0d9858u4jv6qmlk7cum4d0uwxd2l54vk8mvpe6
-```
-
----
-
 ## 🔑 ШАГ 1: 12 слов → 512-битный seed
 
-**Берём:**
+**Берём seed-фразу:**
 ```
 chalk cover vocal advice office close ring agree destroy pole invite tumble
 ```
